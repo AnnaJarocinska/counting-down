@@ -21,6 +21,7 @@ div.bg{
 header{  
     display: flex;
     flex-wrap: wrap; 
+    flex-direction: column;
     min-height:25vh;
     width: 100%;
     margin-top: 5vh;
@@ -33,6 +34,7 @@ h1{
 }
 
 h2{
+    display: inline;
     text-transform: uppercase;
     font-size: 27px;
 }
