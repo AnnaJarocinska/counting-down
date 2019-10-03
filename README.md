@@ -13,5 +13,8 @@ Application counts down the time to event
 Java Script<br>
 CSS
 
+## Status
+Project finished
+
 ## Contact
 Created by Anna Jarocińska anna.jarocinska5@gmail.com
